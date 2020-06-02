@@ -1,8 +1,7 @@
-//requiring mongoose
 const mongoose = require("mongoose");
 
-//load the Schema function from mongoose to make a new user 
-//to store data about user Database to store in our react app
+//load  Schema function from mongoose to make a new user 
+//store data about user Database to store in our react app
 const Schema = mongoose.Schema;
 
 //information stored for each user 
